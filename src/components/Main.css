@@ -1,0 +1,39 @@
+.mainBlock {
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    max-width: 450px; /* Increase max-width for a larger box */
+    margin: 100px auto;
+    display: table;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .Spinner {
+    display: table;
+    margin: 0 auto;
+  }
+  
+  .Spinner > .ImgSpinner {
+    max-width: 30px;
+  }
+  
+  .linkBtn {
+    background: none;
+    border: none;
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-left: 5px;
+  }
+  
+  .underLine {
+    margin-top: 10px;
+  }
+  .welcomeText {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
